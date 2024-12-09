@@ -4243,11 +4243,12 @@
 
     {
         "name": "Roblox",
-        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
-        "difficulty": "impossible",
-        "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
+        "url": "https://help.roblox.com/hc/articles/203313050",
+        "difficulty": "hard",
+        "notes": "To make a deletion request, contact them by using their support form and select the "Right To Be Forgotten" option under the Data Privacy Requests. They may ask for further info to verify your identity.",
         "domains": [
             "www.roblox.com"
+            "web.roblox.com"
         ]
     },
 
